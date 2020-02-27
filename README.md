@@ -1,2 +1,2 @@
 # Games
-Simple games using JavaScript.
+Simple games using JavaScript and jQuery.
